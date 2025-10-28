@@ -1,0 +1,8 @@
+# Kompilierte Dateien
+/bin/
+*.class
+
+# Eclipse-Projektdateien
+.classpath
+.project
+/.settings/
